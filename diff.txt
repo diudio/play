@@ -1,4 +1,10 @@
+
+就这样了 不修改  保留冲突的样子
+<<<<<<< HEAD
 biubiu~~~
 
 
 wait for conflict
+=======
+will be conflict
+>>>>>>> magician
